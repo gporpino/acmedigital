@@ -6,9 +6,12 @@ Please, run it on mac os x.
 **clone**:
 	
 	git clone git@github.com:gporpino/acmedigital.git
+		
 
 **configure**:
 
+	cd acmedigital
+	
 	./configure
 	
 **run**:
@@ -17,7 +20,7 @@ Please, run it on mac os x.
 	
 **simulate**:	
 	
-	ruby simulate.rb
+	clockwork simulate.rb
 	
 to test **execute**:
 	

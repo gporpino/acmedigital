@@ -1,1 +1,2 @@
 gem install 'clockwork'
+gem install 'rspec'
